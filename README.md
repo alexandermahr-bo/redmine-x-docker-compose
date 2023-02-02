@@ -4,7 +4,9 @@ Run the setup via:
 
     docker-compose up --build
 
-logs of run found at [docker-compose-redmine-x-empty-database-dump.html] (docker-compose-redmine-x-empty-database-dump.html) (best to be downloaded and viewed in browser)
+logs of run found at [docker-compose-redmine-x-empty-database-dump.html](docker-compose-redmine-x-empty-database-dump.html) (best to be downloaded and viewed in browser)
+
+used database dump was [./database-setup/db.sql.gz](./database-setup/db.sql.gz)
 
 output also here inline (yet not colorized)
     
