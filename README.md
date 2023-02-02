@@ -1,4 +1,4 @@
-# docker-compose setup for redmine vanilla
+# docker-compose setup for redmineX
 
 Run the setup via:
 
